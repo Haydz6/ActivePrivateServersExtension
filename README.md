@@ -1,4 +1,5 @@
 # ActivePrivateServersExtension
+## This has become broken with roblox updates, I now have a roblox extension that has this feature implemented called RoQoL
 
 Allows you to see which private servers are actively billing you
 
